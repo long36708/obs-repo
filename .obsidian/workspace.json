@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b6e40dfe2f48bd81",
+        "id": "d29dc45c6f282b68",
         "type": "tabs",
         "children": [
           {
-            "id": "4b5795fba2aeabaf",
+            "id": "82c69ce4edf5cbbd",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
-          },
-          {
-            "id": "597cc7bc38bb1a54",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: app.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,6 +116,16 @@
             }
           },
           {
+            "id": "28d9c9bbfd74d417",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "4da7db683ae5bb82",
             "type": "leaf",
             "state": {
@@ -162,19 +153,9 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
-          },
-          {
-            "id": "28d9c9bbfd74d417",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -194,17 +175,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "597cc7bc38bb1a54",
+  "active": "28d9c9bbfd74d417",
   "lastOpenFiles": [
+    "Obsidian软件使用技巧/Obsidian词云图表.md",
+    "Obsidian软件使用技巧/Obsidian彩色时钟.md",
+    "Obsidian软件使用技巧/2025-10-26.md",
+    "Obsidian软件使用技巧/Obsidian MCP.md",
+    "Obsidian软件使用技巧/Obsidian+AI构建知识网络.md",
+    "AI提示词",
+    "Obsidian软件使用技巧/Dataview年倒计时.md",
     "Markdown语法表.md",
     "未命名.canvas",
     "未命名 1.canvas",
-    "Obsidian Git 同步配置指南 (桌面端).md",
-    "文件夹/2025-10-26.md",
+    "Obsidian软件使用技巧/Obsidian Git 同步配置指南 (桌面端).md",
     "Excalidraw/Drawing 2025-10-26 10.35.48.excalidraw.md",
     "Excalidraw",
     "欢迎.md",
-    "文件夹",
+    "Obsidian软件使用技巧",
     "未命名 1.base",
     "未命名.base"
   ]

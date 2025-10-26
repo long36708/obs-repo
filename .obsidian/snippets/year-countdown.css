@@ -1,0 +1,64 @@
+.year-title {
+  margin-bottom: 0.5em;
+  font-size: 1.2em;
+  color: var(--text-muted);
+}
+
+.align-left .year-title {
+  text-align: left;
+}
+
+.align-center .year-title {
+  text-align: center;
+}
+
+.align-right .year-title {
+  text-align: right;
+}
+
+.year-calendar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  gap: 0.5px;
+}
+
+.day-box {
+  width: 10px;
+  height: 10px;
+  border-radius: 1px;
+  margin: 1px;
+  background-color: white;
+  transition: transform 0.2s;
+}
+
+.day-box.past {
+  background-color: #3A353F;
+}
+
+.day-box.today {
+  background-color: #A6D676;
+}
+
+.day-box.future {
+  background-color: #EEE7DF;
+  border: 0.5px solid #ddd;
+}
+
+.day-box:hover {
+  transform: scale(1.4);
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .year-calendar {
+    justify-content: center;
+    gap: 1px;
+  }
+
+  .day-box {
+    width: 8px;
+    height: 8px;
+    margin: 0.5px;
+  }
+}
