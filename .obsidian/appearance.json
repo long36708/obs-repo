@@ -1,5 +1,7 @@
 {
   "enabledCssSnippets": [
-    "year-countdown"
+    "year-countdown",
+    "folder-color",
+    "notion-like-metadata"
   ]
 }

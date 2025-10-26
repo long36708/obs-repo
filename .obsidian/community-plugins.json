@@ -3,5 +3,6 @@
   "obsidian-git",
   "obsidian-importer",
   "obsidian-scroll-to-top-plugin",
-  "smart-composer"
+  "smart-composer",
+  "image-embedder"
 ]

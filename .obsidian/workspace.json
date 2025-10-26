@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc84e00aeb3d76b9",
+        "id": "085dd60a06ca84cd",
         "type": "tabs",
         "children": [
           {
-            "id": "adbe1fc728654cc6",
+            "id": "79f1f5211bc715b1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,12 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Obsidian软件使用技巧/Obsidian彩虹文件夹实现方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Obsidian彩虹文件夹实现方法 的大纲"
             }
           },
           {
@@ -114,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian软件使用技巧/Obsidian彩虹文件夹实现方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Obsidian彩虹文件夹实现方法 的反向链接列表"
             }
           },
           {
@@ -132,11 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian软件使用技巧/Obsidian彩虹文件夹实现方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Obsidian彩虹文件夹实现方法 的出链列表"
             }
           },
           {
@@ -186,27 +189,33 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "95f6f547cf0ffe4b",
+  "active": "79f1f5211bc715b1",
   "lastOpenFiles": [
+    "Obsidian软件使用技巧/Obsidian彩虹文件夹实现方法.md",
+    "Obsidian软件使用技巧/Obsidian多彩标签样式.md",
+    "Obsidian软件使用技巧/Obsidian彩色时钟.md",
+    "Obsidian软件使用技巧/n8n 与 Obsidian 集成指南.md",
+    "Obsidian软件使用技巧/Obsidian 插件 Local Restful Api 核心接口功能详解.md",
+    "Obsidian软件使用技巧/Obsidian Git 同步配置指南 (桌面端).md",
+    "Obsidian软件使用技巧/Obsidian MCP.md",
+    "Markdown语法表.md",
+    "欢迎.md",
+    "Obsidian软件使用技巧/Dataview年倒计时.md",
+    "Obsidian软件使用技巧/attachments/Pasted image 20251026163320.png",
+    "Obsidian软件使用技巧/attachments/Pasted image 20251026163417.png",
+    "Obsidian软件使用技巧/attachments/Pasted image 20251026163336.png",
+    "Obsidian软件使用技巧/attachments",
     "AI提示词/生成Markdown学习路线大纲.md",
     "Obsidian软件使用技巧/Obsidian AI指挥中枢：操控任何APP.md",
-    "Obsidian软件使用技巧/Obsidian 插件 Local Restful Api 核心接口功能详解.md",
-    "Obsidian软件使用技巧/n8n 与 Obsidian 集成指南.md",
     "AI提示词/使用Cursor自动化搭建Obsidian知识库.md",
     "Obsidian软件使用技巧/Obsidian词云图表.md",
-    "Obsidian软件使用技巧/Obsidian彩色时钟.md",
     "Obsidian软件使用技巧/2025-10-26.md",
-    "Obsidian软件使用技巧/Obsidian MCP.md",
     "Obsidian软件使用技巧/Obsidian+AI构建知识网络.md",
     "AI提示词",
-    "Obsidian软件使用技巧/Dataview年倒计时.md",
-    "Markdown语法表.md",
     "未命名.canvas",
     "未命名 1.canvas",
-    "Obsidian软件使用技巧/Obsidian Git 同步配置指南 (桌面端).md",
     "Excalidraw/Drawing 2025-10-26 10.35.48.excalidraw.md",
     "Excalidraw",
-    "欢迎.md",
     "Obsidian软件使用技巧",
     "未命名 1.base",
     "未命名.base"
