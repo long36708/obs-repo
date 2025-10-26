@@ -11,10 +11,14 @@
             "id": "79f1f5211bc715b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "欢迎"
             }
           }
         ]
@@ -90,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian软件使用技巧/Obsidian彩虹文件夹实现方法.md",
+                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidian彩虹文件夹实现方法 的大纲"
+              "title": "欢迎 的大纲"
             }
           },
           {
@@ -189,8 +193,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "79f1f5211bc715b1",
+  "active": "28d9c9bbfd74d417",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "欢迎.md",
+    "未命名.base",
+    "2025-10-26.md",
     "Obsidian软件使用技巧/Obsidian彩虹文件夹实现方法.md",
     "Obsidian软件使用技巧/Obsidian多彩标签样式.md",
     "Obsidian软件使用技巧/Obsidian彩色时钟.md",
@@ -199,7 +207,6 @@
     "Obsidian软件使用技巧/Obsidian Git 同步配置指南 (桌面端).md",
     "Obsidian软件使用技巧/Obsidian MCP.md",
     "Markdown语法表.md",
-    "欢迎.md",
     "Obsidian软件使用技巧/Dataview年倒计时.md",
     "Obsidian软件使用技巧/attachments/Pasted image 20251026163320.png",
     "Obsidian软件使用技巧/attachments/Pasted image 20251026163417.png",
@@ -212,12 +219,10 @@
     "Obsidian软件使用技巧/2025-10-26.md",
     "Obsidian软件使用技巧/Obsidian+AI构建知识网络.md",
     "AI提示词",
-    "未命名.canvas",
     "未命名 1.canvas",
     "Excalidraw/Drawing 2025-10-26 10.35.48.excalidraw.md",
     "Excalidraw",
     "Obsidian软件使用技巧",
-    "未命名 1.base",
-    "未命名.base"
+    "未命名 1.base"
   ]
 }
