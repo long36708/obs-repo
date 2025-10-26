@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d29dc45c6f282b68",
+        "id": "cc84e00aeb3d76b9",
         "type": "tabs",
         "children": [
           {
-            "id": "82c69ce4edf5cbbd",
+            "id": "adbe1fc728654cc6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -85,6 +85,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "002d5992ec93b467",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "28d9c9bbfd74d417",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "4fc8a8b503c00b5b",
             "type": "leaf",
             "state": {
@@ -116,16 +140,6 @@
             }
           },
           {
-            "id": "28d9c9bbfd74d417",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "4da7db683ae5bb82",
             "type": "leaf",
             "state": {
@@ -141,21 +155,17 @@
             }
           },
           {
-            "id": "002d5992ec93b467",
+            "id": "e04eaad43da2f63f",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,11 +182,17 @@
       "bases:创建新数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "smart-composer:Open smart composer": false
     }
   },
-  "active": "28d9c9bbfd74d417",
+  "active": "95f6f547cf0ffe4b",
   "lastOpenFiles": [
+    "AI提示词/生成Markdown学习路线大纲.md",
+    "Obsidian软件使用技巧/Obsidian AI指挥中枢：操控任何APP.md",
+    "Obsidian软件使用技巧/Obsidian 插件 Local Restful Api 核心接口功能详解.md",
+    "Obsidian软件使用技巧/n8n 与 Obsidian 集成指南.md",
+    "AI提示词/使用Cursor自动化搭建Obsidian知识库.md",
     "Obsidian软件使用技巧/Obsidian词云图表.md",
     "Obsidian软件使用技巧/Obsidian彩色时钟.md",
     "Obsidian软件使用技巧/2025-10-26.md",

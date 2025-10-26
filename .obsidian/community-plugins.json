@@ -1,5 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-importer"
+  "obsidian-importer",
+  "obsidian-scroll-to-top-plugin",
+  "smart-composer"
 ]
