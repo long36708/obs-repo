@@ -11,14 +11,14 @@
             "id": "1f5f1a111d20b278",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "2025-10-26.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-10-26"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-10-26 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-10-26 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-10-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-10-26 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -181,13 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f5f1a111d20b278",
+  "active": "95f6f547cf0ffe4b",
   "lastOpenFiles": [
+    "未命名/2025-10-26.md",
     "欢迎.md",
     "未命名",
     "未命名 1.base",
     "未命名.base",
-    "未命名.canvas",
-    "2025-10-26.md"
+    "未命名.canvas"
   ]
 }
