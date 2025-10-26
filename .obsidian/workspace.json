@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "97ab1f5041d48a85",
+        "id": "b6e40dfe2f48bd81",
         "type": "tabs",
         "children": [
           {
-            "id": "1f5f1a111d20b278",
+            "id": "4b5795fba2aeabaf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "597cc7bc38bb1a54",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: app.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,16 +190,22 @@
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "95f6f547cf0ffe4b",
+  "active": "597cc7bc38bb1a54",
   "lastOpenFiles": [
-    "未命名/2025-10-26.md",
+    "Markdown语法表.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "Obsidian Git 同步配置指南 (桌面端).md",
+    "文件夹/2025-10-26.md",
+    "Excalidraw/Drawing 2025-10-26 10.35.48.excalidraw.md",
+    "Excalidraw",
     "欢迎.md",
-    "未命名",
+    "文件夹",
     "未命名 1.base",
-    "未命名.base",
-    "未命名.canvas"
+    "未命名.base"
   ]
 }
